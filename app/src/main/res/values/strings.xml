@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Make My Band</string>
+    <string name="make_my_band_text">My Band!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Make My Band </string>
+    <string name="take_me_to_action">Take me to Action</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_interact">interact</string>
+
+    <string-array name="menu_array">
+    <item>Armor</item>
+    <item>jarvis</item>
+    </string-array>
+</resources>
